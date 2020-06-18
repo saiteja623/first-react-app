@@ -13,7 +13,7 @@ import About from "./about";
 class reactHome extends Component {
   render() {
     return (
-      <Router>
+      <Router basename={window.location.pathname || ""}>
         <Route path="/" exact component={reactHomeNav}></Route>
         <Route path="/calculator" exact component={Calc}></Route>
         <Route path="/todoproject" exact component={Todo}></Route>

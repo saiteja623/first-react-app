@@ -114,7 +114,7 @@ class GuessWord extends Component {
         }
       }
       if (i >= question.length) {
-        this.setState({ letterschecked: [], question: "" });
+        this.setState({ letterschecked: [], question: "", lives: 5 });
         this.questions();
       }
     }
