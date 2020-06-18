@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/first-react-app/static/css/main.3504a65a.chunk.css",
+    "main.js": "/first-react-app/static/js/main.9ee5425f.chunk.js",
+    "main.js.map": "/first-react-app/static/js/main.9ee5425f.chunk.js.map",
+    "runtime-main.js": "/first-react-app/static/js/runtime-main.58495b58.js",
+    "runtime-main.js.map": "/first-react-app/static/js/runtime-main.58495b58.js.map",
+    "static/js/2.35940247.chunk.js": "/first-react-app/static/js/2.35940247.chunk.js",
+    "static/js/2.35940247.chunk.js.map": "/first-react-app/static/js/2.35940247.chunk.js.map",
+    "index.html": "/first-react-app/index.html",
+    "precache-manifest.32c4e6898b4b385e346a4247fee34a40.js": "/first-react-app/precache-manifest.32c4e6898b4b385e346a4247fee34a40.js",
+    "service-worker.js": "/first-react-app/service-worker.js",
+    "static/css/main.3504a65a.chunk.css.map": "/first-react-app/static/css/main.3504a65a.chunk.css.map",
+    "static/js/2.35940247.chunk.js.LICENSE.txt": "/first-react-app/static/js/2.35940247.chunk.js.LICENSE.txt",
+    "static/media/backgroun2.jpg": "/first-react-app/static/media/backgroun2.01dd8a51.jpg",
+    "static/media/background3.jpeg": "/first-react-app/static/media/background3.7539d097.jpeg",
+    "static/media/calculator.jpg": "/first-react-app/static/media/calculator.4551f79c.jpg",
+    "static/media/computer.jpg": "/first-react-app/static/media/computer.ac02a7a5.jpg",
+    "static/media/all.css": "/first-react-app/static/media/fa-solid-900.ec763292.svg",
+    "static/media/weather.css": "/first-react-app/static/media/weather8.6e009406.jpg",
+    "static/media/quiz.png": "/first-react-app/static/media/quiz.6e6720a1.png",
+    "static/media/socialmedia.png": "/first-react-app/static/media/socialmedia.b7ab662a.png",
+    "static/media/todo.jpg": "/first-react-app/static/media/todo.569e9c2b.jpg",
+    "static/media/typing1.jpg": "/first-react-app/static/media/typing1.1d703d49.jpg",
+    "static/media/weather.png": "/first-react-app/static/media/weather.86810fbe.png",
+    "static/media/winner.png": "/first-react-app/static/media/winner.42e491af.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58495b58.js",
+    "static/js/2.35940247.chunk.js",
+    "static/css/main.3504a65a.chunk.css",
+    "static/js/main.9ee5425f.chunk.js"
+  ]
+}
